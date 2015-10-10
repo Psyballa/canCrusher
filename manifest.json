@@ -1,0 +1,17 @@
+{
+  "appID": "b8f66195abea4040adcd2116a4705c34",
+  "dependencies": {
+    "devkit-core": "https://github.com/gameclosure/devkit-core#v3.1.0"
+  },
+  "shortName": "canCrusher",
+  "studio": {
+    "domain": "studio.example.com",
+    "name": "Your Studio Name",
+    "stagingDomain": "staging.example.com"
+  },
+  "supportedOrientations": [
+    "portrait",
+    "landscape"
+  ],
+  "title": "canCrusher"
+}
