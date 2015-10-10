@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+#b8f66195abea4040adcd2116a4705c34 version debug
+
+CACHE:
+resources/images/canPieces/blocker_cans_layered.psd
+resources/images/canPieces/blockercans.png
+resources/images/canPieces/canAnim_00.png
+resources/images/canPieces/canAnim_01.png
+resources/images/canPieces/canAnim_02.png
+resources/images/canPieces/canAnim_03.png
+resources/images/canPieces/canAnim_04.png
+resources/images/canPieces/colored_cans_layered.psd
+resources/images/ui/background.png
+resources/images/ui/button1Down.png
+resources/images/ui/button1Up.png
+resources/images/ui/city_background_sunset.png
+resources/images/ui/header.png
+resources/images/ui/title.png
+spritesheets/spritesheetSizeMap.json
+index.html
+native-ios.js
+
+FALLBACK:
+
+NETWORK:
+*
